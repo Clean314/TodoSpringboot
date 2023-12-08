@@ -1,0 +1,30 @@
+[
+  {
+    "contents" : "로깅 추가하기",
+    "completed" : false
+  },
+  {
+    "contents" : "부모님께 안부 전화",
+    "completed" : false
+  },
+  {
+    "contents" : "면접 노트 정리",
+    "completed" : false
+  },
+  {
+    "contents" : "저녁 산책 30분",
+    "completed" : false
+  },
+  {
+    "contents" : "15p 독서",
+    "completed" : false
+  },
+  {
+    "contents" : "초콜릿 먹기",
+    "completed" : true
+  },
+  {
+    "contents" : "영단어 15개 외우기",
+    "completed" : true
+  }
+]
