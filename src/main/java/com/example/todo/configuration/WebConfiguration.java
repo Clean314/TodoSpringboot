@@ -14,8 +14,4 @@ public class WebConfiguration implements WebMvcConfigurer {
                 .allowedMethods("*");
     }
 
-    @Override
-    public void addInterceptors(InterceptorRegistry registry) {
-        registry.addInterceptor(new Interceptor());
-    }
 }
