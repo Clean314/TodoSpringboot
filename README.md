@@ -1,5 +1,5 @@
 # TodoSpringboot
-간단한 todo 프로젝트를 Spring boot와 Mysql 을 이용해서 CRUD API 구현
+간단한 todo 백엔드 CRUD API를 Spring boot와 Mysql 을 이용해서 구현
 <br/><br/>
 
 <p><b>[사용된 기능]</b></p>
