@@ -4,8 +4,8 @@ Spring boot와 Mysql 을 이용한 CRUD todo API 구현
 
 <p><b>[사용된 기능]</b></p>
 
-* 데이터베이스 : Mysql
-* 백엔드 : Spring boot
+* DB : Mysql (JPA)
+* 백엔드 : Spring boot 
 * 문서 : Swagger
 <br/><br/><br/>
 
